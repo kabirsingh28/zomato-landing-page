@@ -1,1 +1,3 @@
-# Zomato landing page using basic HTML and CSS concepts
+# Zomato landing page 
+
+This is a web development project using basic HTML and CSS
