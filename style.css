@@ -270,6 +270,12 @@
     box-shadow: 1px 1px 12px #e0e0e0;
 }
 
+.grid-item-seemore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media only screen and (max-width: 600px) {
     .navbar_menu_container .link {
         display: none;
